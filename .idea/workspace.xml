@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bfc590c0-8e27-4257-8ad1-1355f9f96c2f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/venv/lib/python3.8/site-packages/factor_analyzer/utils.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/venv/lib/python3.8/site-packages/factor_analyzer/factor_analyzer.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/b6d7205fae9abf92cdbb731d86336397/Message/MessageTemp/4b28f31c162c01da942d5bf21d444bd6/File/Predefined functions.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/past/bmrs.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZJGASUSOXsK4bcrlPdzVqGvapG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/redis" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/redis" />
+      <recent name="$PROJECT_DIR$/lmbench" />
+      <recent name="$PROJECT_DIR$/Viper" />
+      <recent name="$PROJECT_DIR$/MERCI" />
+      <recent name="$PROJECT_DIR$/hot_hisgram" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/merge" />
+      <recent name="$PROJECT_DIR$/Viper" />
+      <recent name="$PROJECT_DIR$/past" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sim_error">
+    <configuration name="PCA1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PCA1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="gem5_overhead0731" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/overhead" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/overhead/gem5_overhead0731.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/merge" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merge/merge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mlc_single_bw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/past" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/past/mlc_single_bw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="redis_test1015" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/redis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redis/redis_test1015.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sim_error" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sim_error" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sim_error/sim_error.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sim_error" />
+        <item itemvalue="Python.mlc_single_bw" />
+        <item itemvalue="Python.gem5_overhead0731" />
+        <item itemvalue="Python.redis_test1015" />
+        <item itemvalue="Python.merge" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfc590c0-8e27-4257-8ad1-1355f9f96c2f" name="Changes" comment="" />
+      <created>1702132624718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702132624718</updated>
+      <workItem from="1702132628484" duration="5524000" />
+      <workItem from="1709650188338" duration="8414000" />
+      <workItem from="1710332720598" duration="1724000" />
+      <workItem from="1710387358840" duration="10492000" />
+      <workItem from="1710812145700" duration="1814000" />
+      <workItem from="1710948026540" duration="221000" />
+      <workItem from="1711009303125" duration="17453000" />
+      <workItem from="1711591857020" duration="5888000" />
+      <workItem from="1712030666805" duration="1933000" />
+      <workItem from="1712394150298" duration="12807000" />
+      <workItem from="1712740076594" duration="9445000" />
+      <workItem from="1712894087416" duration="5281000" />
+      <workItem from="1712912900306" duration="23656000" />
+      <workItem from="1713422954771" duration="4777000" />
+      <workItem from="1713603519435" duration="3596000" />
+      <workItem from="1713705702455" duration="8133000" />
+      <workItem from="1713719062320" duration="21000" />
+      <workItem from="1713719110118" duration="4057000" />
+      <workItem from="1713747123421" duration="3275000" />
+      <workItem from="1713832788437" duration="7317000" />
+      <workItem from="1713942002469" duration="23747000" />
+      <workItem from="1715331717911" duration="334000" />
+      <workItem from="1719566252352" duration="3279000" />
+      <workItem from="1720343242973" duration="5787000" />
+      <workItem from="1720582235841" duration="2622000" />
+      <workItem from="1720585044978" duration="658000" />
+      <workItem from="1720598196012" duration="4091000" />
+      <workItem from="1720614225371" duration="2167000" />
+      <workItem from="1720618321871" duration="154000" />
+      <workItem from="1720683780825" duration="55000" />
+      <workItem from="1721030474810" duration="31426000" />
+      <workItem from="1721471991347" duration="4729000" />
+      <workItem from="1721803717862" duration="33485000" />
+      <workItem from="1722180331066" duration="1387000" />
+      <workItem from="1722246109262" duration="2920000" />
+      <workItem from="1722257064417" duration="151000" />
+      <workItem from="1722322063866" duration="1479000" />
+      <workItem from="1722349962770" duration="5923000" />
+      <workItem from="1722428488432" duration="5350000" />
+      <workItem from="1722480900645" duration="7634000" />
+      <workItem from="1722491804101" duration="495000" />
+      <workItem from="1722497765577" duration="2491000" />
+      <workItem from="1722517459616" duration="7352000" />
+      <workItem from="1722561904836" duration="9613000" />
+      <workItem from="1723039302586" duration="380000" />
+      <workItem from="1723597293316" duration="43000" />
+      <workItem from="1723903459876" duration="1999000" />
+      <workItem from="1723909280772" duration="579000" />
+      <workItem from="1727060563610" duration="2147000" />
+      <workItem from="1727106256780" duration="473000" />
+      <workItem from="1728019531518" duration="26000" />
+      <workItem from="1728020823935" duration="16586000" />
+      <workItem from="1728270920686" duration="7144000" />
+      <workItem from="1728458213258" duration="10825000" />
+      <workItem from="1728475178096" duration="12000" />
+      <workItem from="1728475210488" duration="2555000" />
+      <workItem from="1728477809470" duration="11304000" />
+      <workItem from="1728539218549" duration="7382000" />
+      <workItem from="1728615601221" duration="8982000" />
+      <workItem from="1728658446104" duration="22496000" />
+      <workItem from="1728822236572" duration="4108000" />
+      <workItem from="1728919445239" duration="322000" />
+      <workItem from="1728958701440" duration="2458000" />
+      <workItem from="1728961235524" duration="841000" />
+      <workItem from="1728973011859" duration="1603000" />
+      <workItem from="1729007334799" duration="4600000" />
+      <workItem from="1729861083642" duration="518000" />
+      <workItem from="1732097137847" duration="635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/hot_hisgram/hot_hisgram.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$draw_bw.coverage" NAME="draw_bw Coverage Results" MODIFIED="1710333783171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$viper_limit.coverage" NAME="viper_limit Coverage Results" MODIFIED="1720598448583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viper" />
+    <SUITE FILE_PATH="coverage/pythonProject$viper_limit_new0710.coverage" NAME="viper_limit_new0710 Coverage Results" MODIFIED="1720599627957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viper" />
+    <SUITE FILE_PATH="coverage/pythonProject$xsbench_lat0716.coverage" NAME="xsbench_lat0716 Coverage Results" MODIFIED="1723909475131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XSBench" />
+    <SUITE FILE_PATH="coverage/pythonProject$stream0710.coverage" NAME="stream0710 Coverage Results" MODIFIED="1720599441921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stream" />
+    <SUITE FILE_PATH="coverage/pythonProject$tools.coverage" NAME="tools Coverage Results" MODIFIED="1728743490074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lmbench" />
+    <SUITE FILE_PATH="coverage/pythonProject$law.coverage" NAME="law Coverage Results" MODIFIED="1728141245151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pagerank" />
+    <SUITE FILE_PATH="coverage/pythonProject$merci_graduation.coverage" NAME="merci_graduation Coverage Results" MODIFIED="1723037383203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MERCI" />
+    <SUITE FILE_PATH="coverage/pythonProject$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1709658052789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$pagerank_cgroup.coverage" NAME="pagerank_cgroup Coverage Results" MODIFIED="1721035050525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pagerank" />
+    <SUITE FILE_PATH="coverage/pythonProject$merci0801.coverage" NAME="merci0801 Coverage Results" MODIFIED="1722532719643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MERCI" />
+    <SUITE FILE_PATH="coverage/pythonProject$lmbench_graduation.coverage" NAME="lmbench_graduation Coverage Results" MODIFIED="1723033251242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lmbench" />
+    <SUITE FILE_PATH="coverage/pythonProject$merci1009_1.coverage" NAME="merci1009_1 Coverage Results" MODIFIED="1728709635395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MERCI" />
+    <SUITE FILE_PATH="coverage/pythonProject$heatmap_adjust.coverage" NAME="heatmap_adjust Coverage Results" MODIFIED="1728272124383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot_hisgram" />
+    <SUITE FILE_PATH="coverage/pythonProject$stream_intel_mba.coverage" NAME="stream_intel_mba Coverage Results" MODIFIED="1722154080244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stream_cpulimit" />
+    <SUITE FILE_PATH="coverage/pythonProject$lmbench1011_rand_small.coverage" NAME="lmbench1011_rand_small Coverage Results" MODIFIED="1728821127919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lmbench" />
+    <SUITE FILE_PATH="coverage/pythonProject$viper_limit_graduation.coverage" NAME="viper_limit_graduation Coverage Results" MODIFIED="1723035996442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viper" />
+    <SUITE FILE_PATH="coverage/pythonProject$lat_bw20241006.coverage" NAME="lat_bw20241006 Coverage Results" MODIFIED="1728141746290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Load_lat_bw" />
+    <SUITE FILE_PATH="coverage/pythonProject$stream_4_bw.coverage" NAME="stream_4_bw Coverage Results" MODIFIED="1711076075159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$lmbench1011_seq.coverage" NAME="lmbench1011_seq Coverage Results" MODIFIED="1728744608196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lmbench" />
+    <SUITE FILE_PATH="coverage/pythonProject$stream_cpulimit.coverage" NAME="stream_cpulimit Coverage Results" MODIFIED="1722147932139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stream_cpulimit" />
+    <SUITE FILE_PATH="coverage/pythonProject$stream_single_bw.coverage" NAME="stream_single_bw Coverage Results" MODIFIED="1711075712763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$viper.coverage" NAME="viper Coverage Results" MODIFIED="1711592079757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$lmbench_equal.coverage" NAME="lmbench_equal Coverage Results" MODIFIED="1713258646496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lmbench" />
+    <SUITE FILE_PATH="coverage/pythonProject$pagerank_intelMBA.coverage" NAME="pagerank_intelMBA Coverage Results" MODIFIED="1721033169255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pagerank" />
+    <SUITE FILE_PATH="coverage/pythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1728139283684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MLC" />
+    <SUITE FILE_PATH="coverage/pythonProject$stream2.coverage" NAME="stream2 Coverage Results" MODIFIED="1711090876213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$viper_limit_0730.coverage" NAME="viper_limit_0730 Coverage Results" MODIFIED="1722323264292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viper" />
+    <SUITE FILE_PATH="coverage/pythonProject$redis_test0802.coverage" NAME="redis_test0802 Coverage Results" MODIFIED="1728821549338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
+    <SUITE FILE_PATH="coverage/pythonProject$mlc_single_bw.coverage" NAME="mlc_single_bw Coverage Results" MODIFIED="1729861130482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/past" />
+    <SUITE FILE_PATH="coverage/pythonProject$hot_hisgram.coverage" NAME="hot_hisgram Coverage Results" MODIFIED="1719569418018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot_hisgram" />
+    <SUITE FILE_PATH="coverage/pythonProject$memo.coverage" NAME="memo Coverage Results" MODIFIED="1711095271366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$Viper_SSD.coverage" NAME="Viper_SSD Coverage Results" MODIFIED="1728820859339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viper_SSD" />
+    <SUITE FILE_PATH="coverage/pythonProject$merci0802.coverage" NAME="merci0802 Coverage Results" MODIFIED="1728466878096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MERCI" />
+    <SUITE FILE_PATH="coverage/pythonProject$lmbench0715.coverage" NAME="lmbench0715 Coverage Results" MODIFIED="1728479279176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lmbench" />
+    <SUITE FILE_PATH="coverage/pythonProject$redis_limit.coverage" NAME="redis_limit Coverage Results" MODIFIED="1720610738264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
+    <SUITE FILE_PATH="coverage/pythonProject$stream2_single.coverage" NAME="stream2_single Coverage Results" MODIFIED="1711091592811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$redis_paper.coverage" NAME="redis_paper Coverage Results" MODIFIED="1720610705519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
+    <SUITE FILE_PATH="coverage/pythonProject$heatmap_test.coverage" NAME="heatmap_test Coverage Results" MODIFIED="1728134623362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot_hisgram" />
+    <SUITE FILE_PATH="coverage/pythonProject$gem5_overhead.coverage" NAME="gem5_overhead Coverage Results" MODIFIED="1722425011693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/overhead" />
+    <SUITE FILE_PATH="coverage/pythonProject$PCA1.coverage" NAME="PCA1 Coverage Results" MODIFIED="1710948076523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$test_bw.coverage" NAME="test_bw Coverage Results" MODIFIED="1728139481724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MLC" />
+    <SUITE FILE_PATH="coverage/pythonProject$redis_graduation.coverage" NAME="redis_graduation Coverage Results" MODIFIED="1723034458429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
+    <SUITE FILE_PATH="coverage/pythonProject$effect.coverage" NAME="effect Coverage Results" MODIFIED="1728285399128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/graph500" />
+    <SUITE FILE_PATH="coverage/pythonProject$merci1009.coverage" NAME="merci1009 Coverage Results" MODIFIED="1728823216336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MERCI" />
+    <SUITE FILE_PATH="coverage/pythonProject$sim_error.coverage" NAME="sim_error Coverage Results" MODIFIED="1732097155082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sim_error" />
+    <SUITE FILE_PATH="coverage/pythonProject$pagerank_latency.coverage" NAME="pagerank_latency Coverage Results" MODIFIED="1720344560542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pagerank" />
+    <SUITE FILE_PATH="coverage/pythonProject$stream0715.coverage" NAME="stream0715 Coverage Results" MODIFIED="1728821332904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stream" />
+    <SUITE FILE_PATH="coverage/pythonProject$viper_limit_0731.coverage" NAME="viper_limit_0731 Coverage Results" MODIFIED="1728822806042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viper" />
+    <SUITE FILE_PATH="coverage/pythonProject$redis_test.coverage" NAME="redis_test Coverage Results" MODIFIED="1722490623661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
+    <SUITE FILE_PATH="coverage/pythonProject$viper_limit_1011.coverage" NAME="viper_limit_1011 Coverage Results" MODIFIED="1728616311402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viper" />
+    <SUITE FILE_PATH="coverage/pythonProject$law_bw.coverage" NAME="law_bw Coverage Results" MODIFIED="1728140679754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pagerank" />
+    <SUITE FILE_PATH="coverage/pythonProject$viper_limit_normalized.coverage" NAME="viper_limit_normalized Coverage Results" MODIFIED="1720598478685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viper" />
+    <SUITE FILE_PATH="coverage/pythonProject$redis_test1015.coverage" NAME="redis_test1015 Coverage Results" MODIFIED="1729047342462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
+    <SUITE FILE_PATH="coverage/pythonProject$lmbench_lat.coverage" NAME="lmbench_lat Coverage Results" MODIFIED="1711110327054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$fio202041004.coverage" NAME="fio202041004 Coverage Results" MODIFIED="1728139914581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/FIO" />
+    <SUITE FILE_PATH="coverage/pythonProject$viper_limit_normalized_t.coverage" NAME="viper_limit_normalized_t Coverage Results" MODIFIED="1713720695716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viper" />
+    <SUITE FILE_PATH="coverage/pythonProject$viper_limit_0715.coverage" NAME="viper_limit_0715 Coverage Results" MODIFIED="1722322917568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viper" />
+    <SUITE FILE_PATH="coverage/pythonProject$heatmap_test1.coverage" NAME="heatmap_test1 Coverage Results" MODIFIED="1728136435013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hot_hisgram" />
+    <SUITE FILE_PATH="coverage/pythonProject$viper_limit_new.coverage" NAME="viper_limit_new Coverage Results" MODIFIED="1720599407231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viper" />
+    <SUITE FILE_PATH="coverage/pythonProject$stream_graduation.coverage" NAME="stream_graduation Coverage Results" MODIFIED="1723039229447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stream" />
+    <SUITE FILE_PATH="coverage/pythonProject$lmbench1011.coverage" NAME="lmbench1011_rand Coverage Results" MODIFIED="1728661847386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lmbench" />
+    <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main Coverage Results" MODIFIED="1702140590125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$stream_paper.coverage" NAME="stream_paper Coverage Results" MODIFIED="1714230114545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stream" />
+    <SUITE FILE_PATH="coverage/pythonProject$gem5_overhead0731.coverage" NAME="gem5_overhead0731 Coverage Results" MODIFIED="1729064331440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/overhead" />
+    <SUITE FILE_PATH="coverage/pythonProject$redis_test0710.coverage" NAME="redis_test0710 Coverage Results" MODIFIED="1728958838667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
+    <SUITE FILE_PATH="coverage/pythonProject$lmbench.coverage" NAME="lmbench Coverage Results" MODIFIED="1721116591552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lmbench" />
+    <SUITE FILE_PATH="coverage/pythonProject$merci1009_h.coverage" NAME="merci1009_h Coverage Results" MODIFIED="1728822903706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MERCI" />
+    <SUITE FILE_PATH="coverage/pythonProject$xsbench.coverage" NAME="xsbench Coverage Results" MODIFIED="1720616233134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XSBench" />
+    <SUITE FILE_PATH="coverage/pythonProject$lmbench0710.coverage" NAME="lmbench0710 Coverage Results" MODIFIED="1720585581589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lmbench" />
+    <SUITE FILE_PATH="coverage/pythonProject$merge.coverage" NAME="merge Coverage Results" MODIFIED="1729008645731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/merge" />
+    <SUITE FILE_PATH="coverage/pythonProject$memory_contention.coverage" NAME="memory_contention Coverage Results" MODIFIED="1719567099007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lmbench" />
+    <SUITE FILE_PATH="coverage/pythonProject$mlc_single_latency.coverage" NAME="mlc_single_latency Coverage Results" MODIFIED="1711094763246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/pythonProject$viper_hybrid.coverage" NAME="viper_hybrid Coverage Results" MODIFIED="1720598491107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Viper" />
+    <SUITE FILE_PATH="coverage/pythonProject$merci.coverage" NAME="merci Coverage Results" MODIFIED="1722423988597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MERCI" />
+    <SUITE FILE_PATH="coverage/pythonProject$xsbench_bw0716.coverage" NAME="xsbench_bw0716 Coverage Results" MODIFIED="1723905460343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/XSBench" />
+  </component>
+</project>
